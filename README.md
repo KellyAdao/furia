@@ -2,6 +2,17 @@
 
 Este projeto foi desenvolvido como parte do processo seletivo para a vaga de **Assistente de Engenharia de Software** na **FURIA**.
 
+## 🔗 Página publicada
+
+Acesse a landing page do projeto no link abaixo:
+
+👉 **[Clique aqui para acessar](http://furia.ct.ws/)**
+
+Você também pode acessar diretamente pelo endereço:
+
+- http://furia.ct.ws/
+- http://furia.ct.ws/?i=1
+
 ## 💬 Sobre o Projeto
 
 A proposta era criar uma **experiência conversacional para fãs do time de CS da FURIA**. Desenvolvi uma landing page interativa que conecta visualmente os fãs à organização por meio de:
@@ -56,7 +67,7 @@ A proposta era criar uma **experiência conversacional para fãs do time de CS d
 
 ## 🎥 Demonstração em Vídeo
 
-📺 _[Link para vídeo explicativo - (substituir aqui pelo link quando disponível)]_
+📺 _[Link para vídeo explicativo - (https://youtu.be/6SAQYq8tnHw)]_
 
 ## 👩🏻‍💻 Sobre Mim
 
