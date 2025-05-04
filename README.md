@@ -16,11 +16,9 @@ A proposta era criar uma **experiência conversacional para fãs do time de CS d
 - **Menu responsivo**: abre e fecha ao clicar no ícone de menu (hambúrguer ou X).
 - **Fechamento automático**: o menu fecha ao clicar em qualquer item da navegação.
 - **Scroll dinâmico**:
-  - Header muda de estilo ao rolar a página.
   - Botão "voltar ao topo" aparece após determinado ponto.
   - Destaque automático do item de menu conforme a seção visível.
 - **ScrollReveal**: animações suaves de entrada dos elementos.
-- **Swiper.js**: carrossel (pré-configurado) para seção de depoimentos ou conteúdo multimídia.
 
 ### 📄 Seções da Página
 
@@ -36,8 +34,6 @@ A proposta era criar uma **experiência conversacional para fãs do time de CS d
 - **HTML5**
 - **CSS3** (responsivo e mobile first)
 - **JavaScript Vanilla**
-- **[Swiper.js](https://swiperjs.com/)** (para carrossel interativo)
-- **[ScrollReveal](https://scrollrevealjs.org/)** (para animações ao rolar)
 - **API do WhatsApp** (link personalizado com mensagem)
 
 ## 🧪 Como Executar Localmente
@@ -76,3 +72,4 @@ Conheci a FURIA pelos e-sports, mas participar deste processo me mostrou que a o
 🔗 [Instagram](https://www.instagram.com/kellycode_)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kelly-adao/)  
 🔗 [GitHub](https://github.com/KellyAdao)
+📩 [E-mail](kellyadao5@gmail.com)
