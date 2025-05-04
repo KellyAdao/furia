@@ -77,6 +77,7 @@ body {
 
 .button:hover {
   background: var(--base-color-alt);
+  color: var(--base-color)
 }
 
 /*====  DIVIDERS ======================= */
