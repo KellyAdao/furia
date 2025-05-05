@@ -82,5 +82,5 @@ Conheci a FURIA pelos e-sports, mas participar deste processo me mostrou que a o
 **Kelly Adão**  
 🔗 [Instagram](https://www.instagram.com/kellycode_)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kelly-adao/)  
-🔗 [GitHub](https://github.com/KellyAdao) 
+🔗 [GitHub](https://github.com/KellyAdao)  
 📩 [E-mail](kellyadao5@gmail.com)
