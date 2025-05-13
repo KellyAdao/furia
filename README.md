@@ -65,18 +65,6 @@ A proposta era criar uma **experiência conversacional para fãs do time de CS d
 
 > O projeto é 100% estático e não requer instalação de dependências adicionais.
 
-## 🎥 Demonstração em Vídeo
-
-📺 _[Link para vídeo explicativo - (https://youtu.be/6SAQYq8tnHw)]_
-
-## 👩🏻‍💻 Sobre Mim
-
-Meu nome é **Kelly Adão**, tenho 27 anos, sou advogada por formação e atualmente estou em transição de carreira para a área de tecnologia. Estudo **Análise e Desenvolvimento de Sistemas** e comecei a programar antes mesmo da faculdade, movida pela curiosidade de entender o que acontece “por trás das telas”.
-
-Depois de atuar no Direito, descobri que meu propósito estava em resolver problemas com lógica e criatividade, impactando pessoas por meio da tecnologia. Desde então, tenho me dedicado intensamente ao aprendizado, criando projetos, participando de comunidades e desafios técnicos como este da FURIA.
-
-Conheci a FURIA pelos e-sports, mas participar deste processo me mostrou que a organização vai muito além do competitivo. Me identifiquei com seus valores de inovação, autenticidade e ousadia — que também guiam minha trajetória. Neste projeto, tentei transmitir essa identidade com autenticidade, criatividade e um toque pessoal — refletindo minha dedicação e desejo de crescer como profissional na área de tecnologia.
-
 ## 📱 Redes & Contato
 
 **Kelly Adão**  
