@@ -67,7 +67,6 @@ A proposta era criar uma **experiência conversacional para fãs do time de CS d
 
 ## 📱 Redes & Contato
 
-**Kelly Adão**  
 🔗 [Instagram](https://www.instagram.com/kellycode_)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kelly-adao/)  
 🔗 [GitHub](https://github.com/KellyAdao)  
